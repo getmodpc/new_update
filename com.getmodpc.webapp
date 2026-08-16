@@ -1,8 +1,8 @@
 {
-  "latestVersionCode": 6,
-  "latestVersionName": "1.5.0",
+  "latestVersionCode": 7,
+  "latestVersionName": "1.6.0",
   "minSupportedVersionCode": 1,
-  "force": false,
-  "apkUrl": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY/releases/latest/download/GETMODPC.apk",
-  "message": "A new version of GETMODPC is available with native Android notification support, 24-hour cache, stability, and compatibility improvements."
+  "force": true,
+  "apkUrl": "https://github.com/getmodpc/new_update/releases/download/v1.6.0/GETMODPC_v1.6.0.apk",
+  "message": "A new version of GETMODPC is available. Please update for the latest improvements."
 }
