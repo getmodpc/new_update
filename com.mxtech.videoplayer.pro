@@ -1,9 +1,9 @@
 {
   "Title": "Update Available!",
   "latestVersionCode": 1000000010,
-  "latestVersionName": "3.6.0",
+  "latestVersionName": "3.6.4",
   "AppName": "MX Player Pro",
   "releaseDate": "2099-07-20",
   "Msg": "𝗪𝗵𝗮𝘁'𝘀 𝗡𝗲𝘄 ✦\nBug Fixes & Better Stability\n\n🚀 New version available. Update for the best experience.",
-  "downloadLink": "https://t.me/Getmodpcs/17460"
+  "downloadLink": "https://t.me/Getmodpcs/17920"
 }
